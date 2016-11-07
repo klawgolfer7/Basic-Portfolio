@@ -52,6 +52,25 @@ img {
 	float: left;
 }
 
+h2 {
+	text-align: center;
+ 	padding-top: 20px;
+ 	padding-bottom: 0;
+}
+
+.practice {
+    width: 200px;
+    height: 40px;
+}
+
+/* resize images */
+.practice img {
+    width: 20%;
+    height: auto;
+    position: relative;
+
+}
+
 #greenline {
 	clear: both;
 	background-color: #4aaaa5;
