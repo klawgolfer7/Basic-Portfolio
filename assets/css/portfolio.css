@@ -15,7 +15,8 @@ HTML Files are attached to it.*/
 	width: 300px;
 	background-color: white;
 	left: 800px;
-	bottom: 407px;
+	bottom: 107px;
+	height: 100px;
 }
 
 input {
@@ -90,7 +91,7 @@ h2 {
 	padding-bottom: 20px;
 }
 
-/* resize images */
+/* resize social media icons */
 .practice img {
     width: 40px;
     height: 40px;
@@ -129,10 +130,6 @@ h2 {
 
 }
 
-#boxes {
-	float: left;
-	position: relative;
-}
 
 /*the cream background box*/
 .paragraphbackground {
