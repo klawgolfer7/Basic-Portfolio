@@ -129,6 +129,10 @@ h2 {
 
 }
 
+#boxes {
+	float: left;
+	position: relative;
+}
 
 /*the cream background box*/
 .paragraphbackground {
@@ -143,6 +147,23 @@ h2 {
 .whitebox {
 	background-color: white;
 	margin-left: 110px;
+}
+
+/*BOXES AND RECT ARE FOR THE OVERLAYED
+TEAL BOXES ON PORTFOLIO IMAGES*/
+#boxes {
+	float: left;
+	position: relative;
+}
+.rect{
+  float:left;
+  height: 50px; 
+  position: relative;
+  width: 160px; 
+  background-color: #4aaaa5;
+  margin-left: 24px;
+  margin-right: 3px;
+  margin-bottom: 50px;
 }
 
 
