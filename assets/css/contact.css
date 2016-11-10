@@ -1,7 +1,7 @@
 /*CSS File for HW1 for Rutgers.  About Me/Contact/Portfolio 
 HTML Files are attached to it.*/
 
-/*This is the about me container*/
+/*This is the contact container*/
 .container {
 	position: relative;
 	width: 600px;
@@ -15,7 +15,24 @@ HTML Files are attached to it.*/
 	width: 300px;
 	background-color: white;
 	left: 800px;
-	bottom: 528px;
+	bottom: 407px;
+}
+
+input {
+	padding: 4px;
+	padding-right: 400px;
+}
+
+.message {
+	height: 100px;
+}
+
+button {
+	padding: 10px;
+	width: 15%;
+	margin-left: 10px;
+	color: white;
+	background-color: #4aaaa5;
 }
 
 
