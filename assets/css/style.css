@@ -18,6 +18,41 @@ HTML Files are attached to it.*/
 	bottom: 528px;
 }
 
+/*Facebook, LinkedIN and Instagram Box*/
+.container2contact {
+	position: relative;
+	width: 300px;
+	background-color: white;
+	left: 800px;
+	bottom: 407px;
+}
+
+.container2portfolio {
+	position: relative;
+	width: 300px;
+	background-color: white;
+	left: 800px;
+	bottom: 107px;
+	height: 100px;
+}
+
+input {
+	padding: 4px;
+	padding-right: 400px;
+}
+
+.message {
+	height: 100px;
+}
+
+button {
+	padding: 10px;
+	width: 15%;
+	margin-left: 10px;
+	color: white;
+	background-color: #4aaaa5;
+}
+
 
 /*THis is the top box with my name in it*/
 header {
@@ -133,6 +168,22 @@ h2 {
 	margin-left: 110px;
 }
 
+/*BOXES AND RECT ARE FOR THE OVERLAYED
+TEAL BOXES ON PORTFOLIO.HTML*/
+#boxes {
+	float: left;
+	position: relative;
+}
+.rect{
+  float:left;
+  height: 50px; 
+  position: relative;
+  width: 160px; 
+  background-color: #4aaaa5;
+  margin-left: 24px;
+  margin-right: 3px;
+  margin-bottom: 50px;
+}
 
 
 
